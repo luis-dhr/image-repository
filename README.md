@@ -21,3 +21,12 @@
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/netherite_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/stone_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/wooden_sword.png
+
+> Axe
+
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/diamond_axe.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/golden_axe.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/iron_axe.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/netherite_axe.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/stone_axe.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/wooden_axe.png
