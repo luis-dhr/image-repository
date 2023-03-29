@@ -6,18 +6,18 @@
 
 > Craft
 
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/wooden_shovel.png
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/iron_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/diamond_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/golden_shovel.png
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/golden_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/iron_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/netherite_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/stone_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/wooden_shovel.png
 
 > Sword
 
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/wooden_sword.png
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/iron_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/diamond_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/golden_sword.png
-- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/golden_sword.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/iron_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/netherite_sword.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/stone_sword.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/wooden_sword.png
