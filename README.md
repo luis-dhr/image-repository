@@ -6,6 +6,7 @@
 
 > Craft
 
+>> Shovel
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/diamond_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/golden_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/iron_shovel.png
@@ -13,7 +14,7 @@
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/stone_shovel.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/shovel/wooden_shovel.png
 
-> Sword
+>> Sword
 
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/diamond_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/golden_sword.png
@@ -22,7 +23,7 @@
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/stone_sword.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/sword/wooden_sword.png
 
-> Axe
+>> Axe
 
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/diamond_axe.png
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/axe/golden_axe.png
