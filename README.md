@@ -7,3 +7,8 @@
 > Craft
 
 - https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/wooden_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/iron_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/diamond_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/golden_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/golden_shovel.png
+- https://cdn.jsdelivr.net/gh/luis-dhr/image-repository/craft/netherite_shovel.png
