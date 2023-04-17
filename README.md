@@ -1,6 +1,6 @@
 # Images for websites
 
-> URL Base Path: 'https://luis-dhr.github.io/resources-repository/'
+> URL Base Path: `https://luis-dhr.github.io/resources-repository/`
 
 > Keyboards
 
