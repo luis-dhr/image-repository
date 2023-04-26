@@ -2,6 +2,12 @@
 
 > URL Base Path: `https://luis-dhr.github.io/resources-repository/`
 
+> Poke
+
+- poke/pokeball.png
+- poke/pokedex.png
+- poke/whoPokemon.png
+
 > Keyboards
 
 - keyboards/k1-se-wireless-kbd-v5.webp
